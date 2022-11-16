@@ -32,6 +32,8 @@
 - 🔗 &nbsp;&nbsp; [Favicon генератор](https://realfavicongenerator.net)
 - 🔗 &nbsp;&nbsp; [PWA Builder](https://www.pwabuilder.com)
 
+---
+
 ## Шпаргалки
 
 #### HTML
@@ -42,6 +44,7 @@
 #### CSS
 
 - 📄 &nbsp;&nbsp; 🧧 [Шпаргалка по CSS-селекторам](./css/docs/cheat-sheet.md)
+- 📄 &nbsp;&nbsp; 🎁 [Сниппеты и триксы CSS](./css/docs/snippets.md)
 
 #### Emmet
 
@@ -64,4 +67,4 @@
 
 #### CSS
 
-- 📄 &nbsp;&nbsp;[Руководство по CSS](./css/readme.md)
+- 📄 &nbsp;&nbsp;[Порядок свойств в CSS селекторах](./css/docs/doc-1.md)
