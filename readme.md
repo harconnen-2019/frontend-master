@@ -12,7 +12,13 @@
 
 ---
 
-## Emmet
+## Шпаргалки
+
+### CSS
+
+- 📄 &nbsp;&nbsp;[Шпаргалка по CSS-селекторам](./css/docs/cheat-sheet.md)
+
+### Emmet
 
 - 🔗 &nbsp;&nbsp; [Полная шпаргалка по Emmet](https://docs.emmet.io/cheat-sheet/)
 - 🔗 &nbsp;&nbsp; [Скачать шпаргалку в формате PDF](http://bit.ly/2mLmFAn)
