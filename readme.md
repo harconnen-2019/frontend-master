@@ -2,25 +2,29 @@
 
 ## Справочники под рукой
 
-- 🔗 &nbsp;&nbsp; [ДОКА — документация для разработчиков на человеческом языке.](https://doka.guide)
-- 🔗 &nbsp;&nbsp; [HTMLBASE - самый современный справочник по HTML и CSS.](https://htmlbase.ru)
+- 🔗 &nbsp;&nbsp; [HTMLBASE - самый современный справочник по HTML и CSS](https://htmlbase.ru)
+- 🔗 &nbsp;&nbsp; [ДОКА — документация для разработчиков на человеческом языке](https://doka.guide)
 - 🔗 &nbsp;&nbsp; [HTML5BOOK.RU - HTML, CSS справочники + Типографика](https://html5book.ru)
-- 🔗 &nbsp;&nbsp; [Современный учебник JavaScript.](https://learn.javascript.ru)
+- 🔗 &nbsp;&nbsp; [Современный учебник JavaScript](https://learn.javascript.ru)
 
 ## Инструменты под рукой
 
 #### IMG
 
-- 🔗 &nbsp;&nbsp; [Быстрое сжатие фото (с лимитом)](https://compressor.io)
-- 🔗 &nbsp;&nbsp; [Быстрое сжатие фото - 2](https://tinypng.com)
-- 🔗 &nbsp;&nbsp; [Сжатие фото с возможностью выбора формата и размера](https://squoosh.app/editor)
-- 🔗 &nbsp;&nbsp; [Инструменты онлайн для изображений](https://imagestool.com)
-- 🔗 &nbsp;&nbsp; [Генератор Точек Адаптивного Изображения](https://responsivebreakpoints.com)
-- 🔗 &nbsp;&nbsp; [Photoshop online](https://www.photopea.com)
+- 🔗 &nbsp;&nbsp; 🗜 [Быстрое сжатие - 1](https://compressor.io), 🗜 [Быстрое сжатие - 2](https://tinypng.com)
+- 🔗 &nbsp;&nbsp; 🗜✂️ [Сжатие с выбором формата и размера](https://squoosh.app/editor)
+- 🔗 &nbsp;&nbsp; 🛠 [Инструменты онлайн для изображений](https://imagestool.com)
+- 🔗 &nbsp;&nbsp; 🖼 [Генератор Точек Адаптивного Изображения](https://responsivebreakpoints.com)
+- 🔗 &nbsp;&nbsp; 🖌 [Photoshop online](https://www.photopea.com)
 
 #### CSS
 
-- 🔗 &nbsp;&nbsp; [Могу ли я использовать (caniuse.com)](https://caniuse.com)
+- 🔗 &nbsp;&nbsp; ⚖️ [Могу ли я использовать (caniuse.com)](https://caniuse.com)
+
+#### BUILDER
+
+- 🔗 &nbsp;&nbsp; [Favicon генератор](https://realfavicongenerator.net)
+- 🔗 &nbsp;&nbsp; [PWA Builder](https://www.pwabuilder.com)
 
 ## Шпаргалки
 
