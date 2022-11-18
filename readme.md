@@ -11,11 +11,10 @@
 
 ## Инструменты под рукой
 
-#### Редакторы
+#### CODE
 
-- 🔗 &nbsp;&nbsp; [Codepen.io](https://codepen.io/)
-
-  ![](//https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png)
+- 🔗 &nbsp;&nbsp; [Codepen](https://codepen.io/)
+- 🔗 &nbsp;&nbsp; [Codesandbox](https://codesandbox.io/)
 
 #### IMG
 
