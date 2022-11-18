@@ -11,6 +11,12 @@
 
 ## Инструменты под рукой
 
+#### Редакторы
+
+- 🔗 &nbsp;&nbsp; [Codepen.io](https://codepen.io/)
+
+  ![](//https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png)
+
 #### IMG
 
 - 🔗 &nbsp;&nbsp; 🗜 [Быстрое сжатие - 1](https://compressor.io), 🗜 [Быстрое сжатие - 2](https://tinypng.com)
@@ -21,7 +27,8 @@
 
 #### CSS
 
-- 🔗 &nbsp;&nbsp; ⚖️ [Могу ли я использовать (caniuse.com)](https://caniuse.com)
+- 🔗 &nbsp;&nbsp; [Могу ли я использовать (caniuse.com)](https://caniuse.com)
+- 🔗 &nbsp;&nbsp; [REM to PX Converter](https://codebeautify.org/rem-to-px-converter)
 
 #### JS
 

@@ -108,3 +108,61 @@ textarea {
   content: attr(data-tooltip);
 }
 ```
+
+### Кастомное выделение текста
+
+```html
+<p class="custom-text-selection">Select some of this text.</p>
+```
+
+```css
+.custom-text-selection::selection {
+  background: red;
+  color: white;
+}
+```
+
+### Вдавленный текст
+
+```css
+.etched-text {
+  text-shadow: 0 2px white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #b8bec5;
+}
+```
+
+### Градиент при избыточной прокрутке
+
+```html
+<div class="overflow-scroll-gradient">
+  <div class="overflow-scroll-gradient__scroller">Content to be scrolled</div>
+</div>
+```
+
+```css
+.overflow-scroll-gradient {
+  position: relative;
+}
+.overflow-scroll-gradient::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 300px;
+  height: 25px;
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.001),
+    white
+  ); /* transparent keyword is broken in Safari */
+}
+.overflow-scroll-gradient__scroller {
+  overflow-y: scroll;
+  background: white;
+  width: 300px;
+  height: 250px;
+  padding: 15px 0;
+  line-height: 1.2;
+  text-align: center;
+}
+```
