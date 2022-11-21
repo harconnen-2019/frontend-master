@@ -17,6 +17,11 @@
   --2xl: 1536px;
 }
 
+*:where(:not(iframe, canvas, img, svg, video):not(svg *)) {
+  all: unset;
+  display: revert;
+}
+
 html {
   box-sizing: border-box;
 }
@@ -34,6 +39,18 @@ body {
 
 img {
   max-width: 100%;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+textarea {
+  white-space: revert;
 }
 
 a {

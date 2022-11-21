@@ -101,14 +101,6 @@ textarea {
 }
 ```
 
-### Всплывающие подсказки
-
-```css
-.tooltip::after {
-  content: attr(data-tooltip);
-}
-```
-
 ### Кастомное выделение текста
 
 ```html
@@ -133,7 +125,7 @@ textarea {
 }
 ```
 
-### Градиент при избыточной прокрутке
+### Градиент при избыточной прокрутке внутри блока
 
 ```html
 <div class="overflow-scroll-gradient">
