@@ -158,3 +158,22 @@ textarea {
   text-align: center;
 }
 ```
+
+### Хранение значений URL
+
+Значения для изображения нужно подставлять с помощью JavaScript.
+
+```html
+<section
+  class="newsletter"
+  style="--thumb:url('/assets/ui/decoraitve/newsletter-lg-aj1891101.svg')"
+></section>
+```
+
+```css
+.newsletter {
+  background-image: var(--thumb);
+  background-size: cover;
+  background-position: 100% 50%;
+}
+```
