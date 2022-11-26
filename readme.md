@@ -10,6 +10,12 @@
 
 ## Инструменты под рукой
 
+#### TEMPLATES
+
+- 📄 &nbsp;&nbsp; 🎁 [Сниппеты и триксы CSS](./css/docs/snippets.md)
+- 🔗 &nbsp;&nbsp; [Как сделать](https://html5css.ru/howto/default.php)
+- 🔗 &nbsp;&nbsp; [Коллекция готовых CSS блоков](https://csslayout.io)
+
 #### CODE
 
 - 🔗 &nbsp;&nbsp; [Codepen](https://codepen.io/)
@@ -29,7 +35,7 @@
 - 🔗 &nbsp;&nbsp; [REM to PX Converter](https://codebeautify.org/rem-to-px-converter)
 - 🔗 &nbsp;&nbsp; [Contrast : Ratio (Текст и фон)](https://contrast-ratio.com)
 
-#### Collections
+##### Collections
 
 - 🔗 &nbsp;&nbsp; [Большая подборка генераторов CSS, HTML, OG, Schema (чуть устарела)](https://webcode.tools)
 
@@ -59,11 +65,17 @@
 - 🔗 &nbsp;&nbsp; [Редактор Animista](https://animista.net)
 - 🔗 &nbsp;&nbsp; [Генератор CSS анимации](https://webcode.tools/generators/css/keyframe-animation)
 
-#### Tools
+##### Tools
 
 - 🔗 &nbsp;&nbsp; [SVG-фигуры - разделители](https://www.shapedivider.app)
 - 🔗 &nbsp;&nbsp; [Мягкая тень](https://shadows.brumm.af)
 - 🔗 &nbsp;&nbsp; [Продвинутый редактор рисования градиентами](https://gra.dient.art)
+
+##### Utils
+
+- 🔗 &nbsp;&nbsp; [Конвертировать IMG в BASE64](https://www.base64-image.de)
+- 🔗 &nbsp;&nbsp; [Stylelint](https://stylelint.io)
+- 🔗 &nbsp;&nbsp; [CSS Валидатор](https://jigsaw.w3.org/css-validator/)
 
 #### JS
 
@@ -86,12 +98,18 @@
 #### CSS
 
 - 📄 &nbsp;&nbsp; 🧧 [Шпаргалка по CSS-селекторам](./css/docs/cheat-sheet.md)
-- 📄 &nbsp;&nbsp; 🎁 [Сниппеты и триксы CSS](./css/docs/snippets.md)
 
 ##### Flex Grid
 
 - 🔗 &nbsp;&nbsp; [Flex шпаргалка](https://yoksel.github.io/flex-cheatsheet/)
 - 🔗 &nbsp;&nbsp; [Grid шпаргалка](https://yoksel.github.io/grid-cheatsheet/)
+
+##### Другое
+
+- 🔗 &nbsp;&nbsp; [CSS transform. 2D и 3D трансформации](https://fls.guru/transform.html)
+- 🔗 &nbsp;&nbsp; [CSS переходы (CSS transition)](https://fls.guru/csstransition.html)
+- 🔗 &nbsp;&nbsp; [CSS анимация (CSS animation & @keyframes)](https://fls.guru/cssanimation.html)
+- 🔗 &nbsp;&nbsp; [An Interactive Guide to Keyframe Animations)](https://www.joshwcomeau.com/animation/keyframe-animations/)
 
 #### Emmet
 
@@ -115,3 +133,19 @@
 #### CSS
 
 - 📄 &nbsp;&nbsp;[Порядок свойств в CSS селекторах](./css/docs/doc-1.md)
+
+##### Адаптивные картинки
+
+- 🔗 &nbsp;&nbsp;[Responsive images + CSS](https://web.dev/responsive-images/)
+- 🔗 &nbsp;&nbsp;[Адаптивные изображения MDN](https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+
+##### Функции
+
+- 🔗 &nbsp;&nbsp;[var()](https://developer.mozilla.org/ru/docs/Web/CSS/var)
+- 🔗 &nbsp;&nbsp;[calc()](https://developer.mozilla.org/ru/docs/Web/CSS/calc)
+- 🔗 &nbsp;&nbsp;[counters()](https://developer.mozilla.org/en-US/docs/Web/CSS/counters)
+- 🔗 &nbsp;&nbsp;[clamp()](https://developer.mozilla.org/ru/docs/Web/CSS/clamp)
+- 🔗 &nbsp;&nbsp;[max()](https://developer.mozilla.org/en-US/docs/Web/CSS/max)
+- 🔗 &nbsp;&nbsp;[min()](https://developer.mozilla.org/en-US/docs/Web/CSS/min)
+- 🔗 &nbsp;&nbsp;[minmax()](https://developer.mozilla.org/ru/docs/Web/CSS/minmax)
+- 🔗 &nbsp;&nbsp;[attr()](https://developer.mozilla.org/ru/docs/Web/CSS/attr)
