@@ -8,6 +8,25 @@
 
 ---
 
+## Сервисы
+
+#### Проектирование
+
+- 🔗 &nbsp;&nbsp; [Создай прототип сайта за 10 минут](https://wmtools.ru)
+- 🔗 &nbsp;&nbsp; [Wireflow - конструктор прототипов пользовательского потока](https://wireflow.co)
+- 🔗 &nbsp;&nbsp; [Создание диаграмм](https://app.diagrams.net)
+
+#### JSON
+
+- 🔗 &nbsp;&nbsp; [JSON Editor Online](https://jsoneditoronline.org)
+- 🔗 &nbsp;&nbsp; [Визуализирует JSON в схему](https://jsoncrack.com)
+
+#### Конвертировать
+
+- 🔗 &nbsp;&nbsp; [Веб-конвертер polyglot (transform)](https://transform.tools)
+
+---
+
 ## Инструменты под рукой
 
 #### TEMPLATES
@@ -23,12 +42,13 @@
 
 #### IMG
 
+- 🔗 &nbsp;&nbsp; [Lorem IMG - фото для проектов](https://picsum.photos)
 - 🔗 &nbsp;&nbsp; 🗜 [Быстрое сжатие - 1](https://compressjpeg.com/ru/), 🗜 [Быстрое сжатие - 2](https://compressor.io), 🗜 [Быстрое сжатие - 3](https://tinypng.com)
 - 🔗 &nbsp;&nbsp; 🗜✂️ [Сжатие с выбором формата и размера](https://squoosh.app/editor)
 - 🔗 &nbsp;&nbsp; 🛠 [Инструменты онлайн для изображений](https://imagestool.com)
 - 🔗 &nbsp;&nbsp; 🖼 [Генератор Точек Адаптивного Изображения](https://responsivebreakpoints.com)
 - 🔗 &nbsp;&nbsp; 🖌 [Photoshop online](https://www.photopea.com)
-
+r
 #### CSS
 
 - 🔗 &nbsp;&nbsp; [Могу ли я использовать (caniuse.com)](https://caniuse.com)
@@ -46,6 +66,7 @@
 
 ##### Fonts
 
+- 🔗 &nbsp;&nbsp; [Скачать шрифты от Google](https://gwfh.mranftl.com/fonts)
 - 🔗 &nbsp;&nbsp; [Clamp() калькулятор с графиком](https://modern-fluid-typography.vercel.app)
 - 🔗 &nbsp;&nbsp; [Clamp() калькулятор переменных размера шрифта](https://www.fluid-type-scale.com)
 - 🔗 &nbsp;&nbsp; [Визуальный подбор размера шрифта в REM](https://type-scale.com)
@@ -119,6 +140,7 @@
 #### RegEx
 
 - 🔗 &nbsp;&nbsp; 📚 [Регулярные выражения : Regex - Шпора, Обучение, Площадка](https://regexlearn.com/ru/cheatsheet)
+- 🔗 &nbsp;&nbsp; 📚 [Готовые шаблоны выражений для форм](https://ihateregex.io)
 
 ---
 

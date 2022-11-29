@@ -1,13 +1,5 @@
 # Сниппеты и Триксы
 
-### Применение `:root` для шрифтов
-
-```css
-:root {
-  font-size: calc(1vw + 1vh + 0.5vmin);
-}
-```
-
 ### Вывод на экран атрибутов тега
 
 ```css
@@ -122,40 +114,6 @@ textarea {
   font-size: 1.5rem;
   font-weight: bold;
   color: #b8bec5;
-}
-```
-
-### Градиент при избыточной прокрутке внутри блока
-
-```html
-<div class="overflow-scroll-gradient">
-  <div class="overflow-scroll-gradient__scroller">Content to be scrolled</div>
-</div>
-```
-
-```css
-.overflow-scroll-gradient {
-  position: relative;
-}
-.overflow-scroll-gradient::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  width: 300px;
-  height: 25px;
-  background: linear-gradient(
-    rgba(255, 255, 255, 0.001),
-    white
-  ); /* transparent keyword is broken in Safari */
-}
-.overflow-scroll-gradient__scroller {
-  overflow-y: scroll;
-  background: white;
-  width: 300px;
-  height: 250px;
-  padding: 15px 0;
-  line-height: 1.2;
-  text-align: center;
 }
 ```
 

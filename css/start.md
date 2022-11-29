@@ -1,6 +1,10 @@
 # Стартовый шаблон CSS
 
 ```css
+/*------------------------------------*\
+  #INIT-PROJECT
+\*------------------------------------*/
+
 :root {
   --primary: #0275d8;
   --success: #5cb85c;
@@ -33,15 +37,17 @@ html {
 }
 
 body {
-  font-size: 1rem/1.4em -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 1rem / calc(1.4em + 0.5vw) -apple-system, BlinkMacSystemFont, Segoe
+      UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+    Helvetica Neue, sans-serif;
 }
 
 img {
   max-width: 100%;
 }
 
-ol, ul {
+ol,
+ul {
   list-style: none;
 }
 
@@ -57,4 +63,8 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+/*------------------------------------*\
+  #SECTION-GLOBAL
+\*------------------------------------*/
 ```
