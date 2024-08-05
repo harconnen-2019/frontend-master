@@ -1,10 +1,6 @@
 # Frontend-Master
 
-## Справочники под рукой
-
-- 🔗 &nbsp;&nbsp; 📘 [ДОКА — документация для разработчиков на человеческом языке](https://doka.guide)
-- 🔗 &nbsp;&nbsp; 📘 [HTML5BOOK.RU — HTML, CSS справочники + Типографика](https://html5book.ru)
-- 🔗 &nbsp;&nbsp; 📕 [Современный учебник JavaScript](https://learn.javascript.ru)
+📘📕📗📙 [Справочники под рукой](./documents/readme.md)
 
 ---
 
@@ -48,7 +44,8 @@
 - 🔗 &nbsp;&nbsp; 🛠 [Инструменты онлайн для изображений](https://imagestool.com)
 - 🔗 &nbsp;&nbsp; 🖼 [Генератор Точек Адаптивного Изображения](https://responsivebreakpoints.com)
 - 🔗 &nbsp;&nbsp; 🖌 [Photoshop online](https://www.photopea.com)
-r
+  r
+
 #### CSS
 
 - 🔗 &nbsp;&nbsp; [Могу ли я использовать (caniuse.com)](https://caniuse.com)
@@ -171,3 +168,5 @@ r
 - 🔗 &nbsp;&nbsp;[min()](https://developer.mozilla.org/en-US/docs/Web/CSS/min)
 - 🔗 &nbsp;&nbsp;[minmax()](https://developer.mozilla.org/ru/docs/Web/CSS/minmax)
 - 🔗 &nbsp;&nbsp;[attr()](https://developer.mozilla.org/ru/docs/Web/CSS/attr)
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/https://www.youtube.com/embed/rO6rubAwL-A)](<https://youtu.be/[{video_id}](https://www.youtube.com/embed/rO6rubAwL-A)>)
