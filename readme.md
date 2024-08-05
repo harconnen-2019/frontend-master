@@ -168,5 +168,3 @@
 - 🔗 &nbsp;&nbsp;[min()](https://developer.mozilla.org/en-US/docs/Web/CSS/min)
 - 🔗 &nbsp;&nbsp;[minmax()](https://developer.mozilla.org/ru/docs/Web/CSS/minmax)
 - 🔗 &nbsp;&nbsp;[attr()](https://developer.mozilla.org/ru/docs/Web/CSS/attr)
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/V-jTInJgQic)](<https://youtu.be/[V-jTInJgQic](V-jTInJgQic)>)
